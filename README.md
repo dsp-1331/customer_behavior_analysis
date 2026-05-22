@@ -94,6 +94,8 @@ GROUP BY age_group;
 ## 📊 Dashboard Showcase
 
 Below is a comprehensive walkthrough demonstrating the interactive features, demographic filters, and visual KPIs built into the Power BI dashboard:
+![Power BI Dashboard Overview](image.png)
+
 
 👉 [**Watch the Live Dashboard Demo on Google Drive**](https://drive.google.com/file/d/1mgjA1-65gLRrWa7dRq_0kIMdrl7_zrjU/view?usp=sharing)
 
