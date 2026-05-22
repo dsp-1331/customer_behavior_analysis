@@ -93,11 +93,10 @@ GROUP BY age_group;
 
 ## 📊 Dashboard Showcase
 
-Below is a walkthrough demonstrating the interactive features, demographic filters, and visual KPIs built into the Power BI dashboard:
-first->
-<video src="Customer behavior dashboard working video.mp4" width="100%" controls></video>
-sec->
-<video src="Customer%20behavior%20dashboard%20working%20video.mp4" width="100%" controls></video>
+Below is a comprehensive walkthrough demonstrating the interactive features, demographic filters, and visual KPIs built into the Power BI dashboard:
+
+👉 [**Watch the Live Dashboard Demo on Google Drive**](https://drive.google.com/file/d/1mgjA1-65gLRrWa7dRq_0kIMdrl7_zrjU/view?usp=sharing)
+
 
 
 
