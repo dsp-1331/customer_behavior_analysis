@@ -89,10 +89,18 @@ GROUP BY age_group;
 
 ---
 
-## 📊 Dashboard Showcase
-*(Note: Replace the placeholder below with your actual dashboard screenshot path)*
 
-![Dashboard Overview](images/dashboard_overview.png)
+
+## 📊 Dashboard Showcase
+
+Below is a walkthrough demonstrating the interactive features, demographic filters, and visual KPIs built into the Power BI dashboard:
+first->
+<video src="Customer behavior dashboard working video.mp4" width="100%" controls></video>
+sec->
+<video src="Customer%20behavior%20dashboard%20working%20video.mp4" width="100%" controls></video>
+
+
+
 
 * **Demographic Slicing**: Evaluates spending distribution behaviors across defined age groups and gender categories.
 * **Operational Tractions**: Pinpoints category-specific revenue performance alongside target purchase frequencies.
